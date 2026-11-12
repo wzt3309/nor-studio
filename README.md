@@ -1,6 +1,6 @@
-# Nor Studio
+# NOR Studio
 
-Nor Studio (AND, OR, NOT) is a personal product practice repository and a record of progress toward becoming a one-person company (OPC).
+NOR Studio (AND, OR, NOT) is a personal product practice repository and a record of progress toward becoming a one-person company (OPC).
 
 It develops product judgment, UI and interaction design, full-stack engineering, and collaboration with coding agents through small, self-contained products. Reasoning, decisions, intermediate artifacts, and reflections help later projects test and refine earlier lessons.
 

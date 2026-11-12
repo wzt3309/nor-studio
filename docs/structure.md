@@ -1,6 +1,6 @@
 # Repository layout
 
-Each product lives in `projects/<name>/` and can evolve over multiple releases. Start from its README to run it, find its current design, or pick up work on it. The repository root is the Obsidian vault for all of Nor Studio. Use relative Markdown links so the same notes and project references work on GitHub. Keep personal Obsidian settings and plugins local.
+Each product lives in `projects/<name>/` and can evolve over multiple releases. Start from its README to run it, find its current design, or pick up work on it. The repository root is the Obsidian vault for all of NOR Studio. Use relative Markdown links so the same notes and project references work on GitHub. Keep personal Obsidian settings and plugins local.
 
 Create each directory with its first useful file. This map shows where future content belongs.
 
