@@ -4,6 +4,10 @@
 
 Use English by default for project documentation and code comments.
 
+## Repository layout
+
+Read the [repository layout](docs/structure.md) when setting up a project or its build, placing design artifacts, or recording lasting guidance from a practice.
+
 ## Agent skills
 
 ### Issue tracker

@@ -4,6 +4,8 @@ Nor Studio (AND, OR, NOT) is a personal product practice repository and a record
 
 It develops product judgment, UI and interaction design, full-stack engineering, and collaboration with coding agents through small, self-contained products. Reasoning, decisions, intermediate artifacts, and reflections help later projects test and refine earlier lessons.
 
+See the [repository layout](docs/structure.md) for project structure, design artifacts, shared knowledge, and build conventions.
+
 ## Background
 
 The initial motivation was to develop taste in UI and interaction design. Practicing the full journey from idea to delivery reveals the dependencies and tradeoffs between stages.
@@ -34,7 +36,7 @@ The long-term goal is to build and deliver products independently as an OPC, wit
 
 Each practice addresses a real use case through a self-contained product and an explicit learning objective. Scope and polish follow that objective; a phase can conclude once there is enough feedback.
 
-Practice covers requirements, product and interaction design, UI, implementation, validation, and delivery. Reflection accompanies important decisions and phase endings. Retain the original problem, chosen approach, influential intermediate artifacts, usage outcomes, and intended adjustments. Specific methods and cadence remain to be decided.
+Practice covers requirements, product and interaction design, UI, implementation, validation, and delivery. Reflection accompanies important decisions and phase endings. Retain the original problem, chosen approach, influential intermediate artifacts, usage outcomes, and intended adjustments.
 
 ## Reflection
 
@@ -53,6 +55,6 @@ Lessons remain provisional as later practice reveals their limits. Record the co
 
 ## Current Stage
 
-The project's purpose, name, and repository are established. Product selection, internal organization, retrospective workflow, and schedule remain open.
+The repository layout and documentation conventions are established. Product selection and the practice schedule remain open.
 
 Discuss one decision at a time in priority order. Agreement on an approach and authorization to execute are separate; each execution stays within its explicitly approved scope.
